@@ -1,0 +1,5 @@
+author: matejkoo
+description: Fishing plugin
+main: main.java.org.matejko.plugin.Fishing
+name: Fishing
+version: 4
